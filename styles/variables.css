@@ -15,6 +15,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
+  
   :root {
     --page-background-image: url("../images/cover-image-dark.png");
     --color-bg: #000028;
@@ -25,6 +26,7 @@
     --color-subtitle: #000028;
     --color-decorated-zone-title: #ff0070;
   }
+
   .theme-auto .element__rec { 
     display: inline-block; 
   }
